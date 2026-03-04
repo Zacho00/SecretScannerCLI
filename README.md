@@ -33,3 +33,7 @@ An example input into the terminal would be:
 **or**
 
 `python scan.py main C:\secret_folder\secrets.txt`
+
+After the first time you run the program, a file called "my_log.txt" will be created for you. The logging in this file will tell you what kind of match has been found, the text that matched your search, and the line in the file that the match was found.
+
+### Have Fun!
